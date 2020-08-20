@@ -9,7 +9,15 @@
 * [Questions](#questions)
 
 ## Usage:
- This application is meant to create and save notes to organize your thoughts! To use this app simply type a note title and a note body and press save. The built back-end will take the note, save it, and print it for you on the page. Feel free to close the website as it will look the same when you get back!
+ This application is meant to create and save notes to organize your thoughts! To use this app simply type a note title and a note body and press save!
+
+ ![Example](https://i.ibb.co/6RWTgTy/premade-note.png)
+
+  The built back-end will take the note, save it, and print it for you on the page. Feel free to close the website as it will look the same when you get back!
+  
+  ![Example](https://i.ibb.co/G2t3j5h/saved-note.png)
+
+
 
 
 
